@@ -1,0 +1,36 @@
+# Local Python environments and editor state
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.env
+.env.*
+
+# Datasets and generated experiment artifacts
+data/
+results/
+*.csv
+*.npy
+*.npz
+*.pt
+*.pth
+*.log
+*.png
+*.zip
+*.gz
+Ket_qua_va_dien_giai.md
+
+# Reports and presentations
+*.[dD][oO][cC]
+*.[dD][oO][cC][xX]
+*.[pP][pP][tT]
+*.[pP][pP][tT][xX]
+*.[pP][dD][fF]
+
+# Operating system metadata
+Thumbs.db
+.DS_Store
